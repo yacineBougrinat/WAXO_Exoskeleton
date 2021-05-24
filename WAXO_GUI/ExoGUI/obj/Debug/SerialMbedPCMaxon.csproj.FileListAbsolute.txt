@@ -1,0 +1,32 @@
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Debug\SerialEPOSuC.exe.config
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.exe
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.pdb
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Debug\SerialEPOSuC.exe
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Debug\SerialEPOSuC.pdb
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Debug\EposCmd.Net.dll
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialMbedPCMaxon.csprojResolveAssemblyReference.cache
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.Form1.resources
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.Properties.Resources.resources
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialMbedPCMaxon.csproj.GenerateResource.Cache
+F:\E\Research project\Master\GUI\SerialEPOSuC\SerialEPOSuC\bin\Debug\SerialEPOSuC.exe.config
+F:\E\Research project\Master\GUI\SerialEPOSuC\SerialEPOSuC\bin\Debug\SerialEPOSuC.exe
+F:\E\Research project\Master\GUI\SerialEPOSuC\SerialEPOSuC\bin\Debug\SerialEPOSuC.pdb
+F:\E\Research project\Master\GUI\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialMbedPCMaxon.csprojAssemblyReference.cache
+F:\E\Research project\Master\GUI\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.MainWindow.resources
+F:\E\Research project\Master\GUI\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.Properties.Resources.resources
+F:\E\Research project\Master\GUI\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialMbedPCMaxon.csproj.GenerateResource.cache
+F:\E\Research project\Master\GUI\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialMbedPCMaxon.csproj.CoreCompileInputs.cache
+F:\E\Research project\Master\GUI\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialMbedPCMaxon.csproj.CopyComplete
+F:\E\Research project\Master\GUI\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.exe
+F:\E\Research project\Master\GUI\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.pdb
+F:\E\Research project\Master\GUI\ExoGUI\bin\Debug\ExoGUI.exe.config
+F:\E\Research project\Master\GUI\ExoGUI\bin\Debug\ExoGUI.exe
+F:\E\Research project\Master\GUI\ExoGUI\bin\Debug\ExoGUI.pdb
+F:\E\Research project\Master\GUI\ExoGUI\obj\Debug\SerialMbedPCMaxon.csprojAssemblyReference.cache
+F:\E\Research project\Master\GUI\ExoGUI\obj\Debug\SerialEPOSuC.MainWindow.resources
+F:\E\Research project\Master\GUI\ExoGUI\obj\Debug\ExoGUI.Properties.Resources.resources
+F:\E\Research project\Master\GUI\ExoGUI\obj\Debug\SerialMbedPCMaxon.csproj.GenerateResource.cache
+F:\E\Research project\Master\GUI\ExoGUI\obj\Debug\SerialMbedPCMaxon.csproj.CoreCompileInputs.cache
+F:\E\Research project\Master\GUI\ExoGUI\obj\Debug\SerialMbedPCMaxon.csproj.CopyComplete
+F:\E\Research project\Master\GUI\ExoGUI\obj\Debug\ExoGUI.exe
+F:\E\Research project\Master\GUI\ExoGUI\obj\Debug\ExoGUI.pdb

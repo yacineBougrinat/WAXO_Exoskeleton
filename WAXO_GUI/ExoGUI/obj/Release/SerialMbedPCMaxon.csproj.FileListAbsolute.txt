@@ -1,0 +1,21 @@
+E:\Yacine\Documents\Visual Studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Release\SerialEPOSuC.exe.config
+E:\Yacine\Documents\Visual Studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Release\SerialEPOSuC.exe
+E:\Yacine\Documents\Visual Studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Release\SerialEPOSuC.pdb
+E:\Yacine\Documents\Visual Studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Release\EposCmd.Net.dll
+E:\Yacine\Documents\Visual Studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Release\SerialMbedPCMaxon.csprojResolveAssemblyReference.cache
+E:\Yacine\Documents\Visual Studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Release\SerialEPOSuC.Form1.resources
+E:\Yacine\Documents\Visual Studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Release\SerialEPOSuC.Properties.Resources.resources
+E:\Yacine\Documents\Visual Studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Release\SerialMbedPCMaxon.csproj.GenerateResource.Cache
+E:\Yacine\Documents\Visual Studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Release\SerialEPOSuC.exe
+E:\Yacine\Documents\Visual Studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Release\SerialEPOSuC.pdb
+F:\E\Research project\Master\GUI\ExoGUI\bin\Release\ExoGUI.exe.config
+F:\E\Research project\Master\GUI\ExoGUI\bin\Release\ExoGUI.exe
+F:\E\Research project\Master\GUI\ExoGUI\bin\Release\ExoGUI.pdb
+F:\E\Research project\Master\GUI\ExoGUI\obj\Release\SerialMbedPCMaxon.csprojAssemblyReference.cache
+F:\E\Research project\Master\GUI\ExoGUI\obj\Release\SerialEPOSuC.MainWindow.resources
+F:\E\Research project\Master\GUI\ExoGUI\obj\Release\ExoGUI.Properties.Resources.resources
+F:\E\Research project\Master\GUI\ExoGUI\obj\Release\SerialMbedPCMaxon.csproj.GenerateResource.cache
+F:\E\Research project\Master\GUI\ExoGUI\obj\Release\SerialMbedPCMaxon.csproj.CoreCompileInputs.cache
+F:\E\Research project\Master\GUI\ExoGUI\obj\Release\SerialMbedPCMaxon.csproj.CopyComplete
+F:\E\Research project\Master\GUI\ExoGUI\obj\Release\ExoGUI.exe
+F:\E\Research project\Master\GUI\ExoGUI\obj\Release\ExoGUI.pdb

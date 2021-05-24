@@ -1,0 +1,10 @@
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Debug\SerialEPOSuC.exe.config
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Debug\SerialEPOSuC.exe
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Debug\SerialEPOSuC.pdb
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.csprojResolveAssemblyReference.cache
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.Form1.resources
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.Properties.Resources.resources
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.csproj.GenerateResource.Cache
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.exe
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\obj\Debug\SerialEPOSuC.pdb
+e:\yacine\documents\visual studio 2015\Projects\SerialEPOSuC\SerialEPOSuC\bin\Debug\EposCmd.Net.dll
